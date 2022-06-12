@@ -10,10 +10,7 @@ public class Cycliste {
     private int number;
     private boolean estArrive;
     private boolean estDisqualifie;
-    LocalTime time = dateTime.toLocalTime();
 
-    public static void test(){
-        System.out.println(time);
-    }
+
 
 }
